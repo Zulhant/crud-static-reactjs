@@ -1,1 +1,1 @@
-# crud-statci-reactjs
+# crud-static-reactjs
